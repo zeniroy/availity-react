@@ -229,7 +229,7 @@ class AvDate extends Component {
             disabled={attributes.disabled}
             date={this.getDateValue()}
             onDateChange={this.onPickerChange}
-            focused={this.state.focused}
+            focused={this.state.focused && datepicker}
             onFocusChange={this.onFocusChange}
             numberOfMonths={1}
             isOutsideRange={isOutsideRange(minDate, maxDate, this.state.format)}
