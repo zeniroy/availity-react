@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{1409:function(t,n,e){"use strict";e.r(n);var r=e(522);e.d(n,"FavoriteHeart",(function(){return r.default}));var o=e(194);e.d(n,"FavoritesContext",(function(){return o.a})),e.d(n,"useFavorites",(function(){return o.c})),n.default=o.b}}]);
-//# sourceMappingURL=7-ff14f953be37bf0fd2f6.js.map
